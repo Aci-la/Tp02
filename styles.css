@@ -144,12 +144,7 @@ li.feature{
     width: 80%;
     font-size: 30px;
 }
-#contact-me{
-    margin-top: 50px;
-    align-self: center  ;
-    width: 80%;
-    font-size: 30px;
-}
+
 #contact-me li{
     font-size: 25px;
     list-style: disc;
